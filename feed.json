@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://maikerukun-jp.github.io/A-J-Procedure/gaming-for-immersion/index.html",
+            "url": "https://maikerukun-jp.github.io/A-J-Procedure/gaming-for-immersion/index.html",
+            "title": "Gaming for Immersion",
+            "image": "https://maikerukun-jp.github.io/A-J-Procedure/media/posts/6/original-4ec4db766edeba466436518a22c09799.webp",
+            "author": {
+                "name": "Maikeru-kun"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-05T01:28:53+02:00",
+            "date_modified": "2026-03-05T01:29:48+02:00"
+        },
+        {
             "id": "https://maikerukun-jp.github.io/A-J-Procedure/how-to-truly-be-like-native-japanese-person/index.html",
             "url": "https://maikerukun-jp.github.io/A-J-Procedure/how-to-truly-be-like-native-japanese-person/index.html",
             "title": "How to Truly Act and Think Like a Native Japanese Person",
@@ -24,7 +37,7 @@
                    "A+J"
             ],
             "date_published": "2026-03-04T22:57:54+02:00",
-            "date_modified": "2026-03-05T00:06:07+02:00"
+            "date_modified": "2026-03-05T00:37:57+02:00"
         },
         {
             "id": "https://maikerukun-jp.github.io/A-J-Procedure/the-aj-procedure/index.html",
