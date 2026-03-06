@@ -3,7 +3,7 @@
     <title>A+J Procedure</title>
     <link href="https://maikeru-seijaku.github.io/A-J-Procedure/feed.xml" rel="self" />
     <link href="https://maikeru-seijaku.github.io/A-J-Procedure" />
-    <updated>2026-03-06T21:03:20+02:00</updated>
+    <updated>2026-03-06T21:17:32+02:00</updated>
     <author>
         <name>Maikeru-Seijaku</name>
     </author>
@@ -1069,12 +1069,12 @@
 <p><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcURsrfnrY3dOFLEYP4QmQGxVU7vVAeP9DqgExa4Uy_q9bkWVu7llShDmBVDKcIfh23C9_KUyGZLapaAI-ybDMvxK0tNivCXDVVeFKpGvbFpn_BNA_VRBju-YuOXaXxNKsEYd6Gwon_8S/w1200-h630-p-k-no-nu/thumbnail_dougu_mark_spanner_hammer.jpg" alt="スパナとハンマーのイラスト | かわいいフリー素材集 いらすとや" width="369" height="194" data-is-external-image="true"></p>
 <h2 id="mcetoc_1jj1uqrcc2t6"><strong>🔗 Resources &amp; Tools</strong></h2>
 <ul style="list-style-type: circle;">
-<li><strong>Dictionary:</strong> <a>Ichi.moe </a>or <a href="https://www.weblio.jp">weblio</a>, ETC.<br><br><strong>Grammar:</strong> <a>Cure Dolly </a>or <a>Tae Kim</a>, ETC.<br><br><strong>JLPT Resources:</strong> <a>JLPT Sensei</a>, ETC.​<br><br><strong>Time Managements: </strong></li>
+<li><strong>Dictionary:</strong> <a href="ichi.moe">Ichimoe </a>or <a href="https://www.weblio.jp">weblio</a>, ETC.<br><br><strong>Grammar:</strong> <a href="https://learnjapaneseonline.info" target="_blank" rel="noopener noreferrer">Cure Dolly </a> / <a href="https://kellenok.github.io/cure-script/1-the-basic-types-of-sentences.html" target="_blank" rel="noopener noreferrer">Cure Dolly 2nd</a> or <a href="https://guidetojapanese.org/learn/category/grammar-guide" target="_blank" rel="noopener noreferrer">Tae Kim</a>, ETC.<br><br><strong>JLPT Resources:</strong> <a href="https://jlptsensei.com/" target="_blank" rel="noopener noreferrer">JLPT Sensei</a>, ETC.​<br><br><strong>Time Managements: <a href="https://zidoro.github.io/pomatez" target="_blank" rel="noopener noreferrer">Pomatez, </a><a href="https://pomotroid.com" target="_blank" rel="noopener noreferrer">Pomodroid</a>, <a href="https://github.com/YetAnotherPomodoroApp/YAPA-2" target="_blank" rel="noopener noreferrer"> YAPA 2, </a><a href="https://flowkeeper.org" target="_blank" rel="noopener noreferrer">Flowkeeper</a>, ETC.</strong></li>
 </ul>
 <p> </p>
 <h2 id="mcetoc_1jj1uqrcc2t7"><strong>🛠️ Technical Stack Audit</strong></h2>
 <ul style="list-style-type: circle;">
-<li><strong>​Primary SRS</strong>: <a>Anki</a> (v2.1.x+)<br><br><strong>​Media Interface</strong>: <a>mpv</a> with asbplayer or Animebook or Rikaitan for sentence extraction.<br><br><strong>​Lexical Lookup</strong>: <a>Rikaitan </a>with high-frequency dictionaries.</li>
+<li><strong>​Primary SRS</strong>: <a href="https://apps.ankiweb.net/" target="_blank" rel="noopener noreferrer">Anki</a> (v2.1.x+).<br><br><strong>​Media Interface</strong>: <a href="https://mpv.io/" target="_blank" rel="noopener noreferrer">mpv</a> with <a href="https://killergerbah.github.io/asbplayer" target="_blank" rel="noopener noreferrer">asbplayer </a>or <a href="https://animebook.github.io" target="_blank" rel="noopener noreferrer">Animebook</a> or for sentence extraction.<br><br><strong>​Lexical Lookup</strong>: <a>Rikaitan </a>with high-frequency dictionaries.</li>
 </ul>
 <p> </p>
 <p> </p>
@@ -1082,7 +1082,7 @@
 <figure class="post__image post__image--left"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzMqkpQ7vLUKvumbm6AFwTLQiCe7tlDb2Q0MAiISLsesZHnhj0kbRjB4U3se3UrDIHfIy0hlahyphenhyphenQu-V2tOR2LcV_lX7U8P5a8jtqPYv3Ah4L-JoYi8PhoaoehumGIdp2vrsX0rRyhXqwA/s800/mark_chuui.png" alt="注意のマーク | かわいいフリー素材集 いらすとや" width="179" height="163" data-is-external-image="true"></figure>
 <h2 id="mcetoc_1jj1uqrcc2t8"><strong>Failure Points (Anti-Patterns)</strong></h2>
 <ul style="list-style-type: circle;">
-<li><strong>Avoid </strong>"Over-mining" (limit new cards to 10–20/day to prevent SRS fatigue). <br><br><strong>​Avoid </strong>English-based grammar explanations after <strong>Phase 1</strong></li>
+<li><strong>Avoid </strong>"Over-mining" (limit new cards to 10–20/day to prevent SRS fatigue). <br><br><strong>​Avoid </strong>English-based grammar explanations after <strong>Phase 1.</strong></li>
 </ul>
 <p> </p>
             ]]>
